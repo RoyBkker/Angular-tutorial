@@ -14,5 +14,6 @@
   // fix ts lint errors on save
   "editor.codeActionsOnSave": {
     "source.fixAll.tslint": true
-  }
+  },
+  "prettier.singleQuote": true
 }
